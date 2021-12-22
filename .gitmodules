@@ -1,0 +1,3 @@
+[submodule "arduinoserialirqcom"]
+	path = arduinoserialirqcom
+	url = ../arduinoserialirqcom.git
